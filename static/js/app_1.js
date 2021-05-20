@@ -1,4 +1,4 @@
-// import the data from fata.js
+// import the data from data.js
 const  tableData = data;
 
 // reference the HTML table using d3
